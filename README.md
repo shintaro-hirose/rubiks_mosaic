@@ -13,7 +13,7 @@ python rubikimage.py
 python rubikimage.py -s test.jpeg -d test200.jpeg -m 200
 でモザイクの大きさが200の変換が実行され、test200.jpegが生成されます。
 
-【ルーブックキューブの色を変えたい場合】
+【キューブの配色を変えたい場合】
 rubikimage.pyの__ave_rgb関数にあるcolorsの要素部分の数値を変えてください。
 
 ![sample](test3.jpg "sample")
