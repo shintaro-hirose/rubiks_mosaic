@@ -15,4 +15,4 @@ python rubikimage.py -s test.jpeg -d test200.jpeg -m 200
 【ルーブックキューブの色を変えたい場合】
 rubikimage.pyの__ave_rgb関数にあるcolorsの要素部分の数値を変えてください。
 
-![sample](t3.jpg "sample")
+![sample](test3.jpg "sample")
